@@ -1,7 +1,7 @@
 # Camera_Pose_Estimation_and_AR
 Camera Pose Estimation and AR program
 ## Demo video:
-
+[[![output_wonoo_video_ok](https://img.youtube.com/vi/VIDEO_ID/0.jpg)]](https://github.com/yunee19/Camera_Pose_Estimation_and_AR/assets/133479803/79fb913a-6667-42a4-93fa-d63f1643f23e)
 
 이 프로그램은 카메라 캘리브레이션과 카메라 자세 추정을 수행하여 카메라 영상에 AR(증강 현실) 물체를 표시합니다. 주요 단계와 결과는 다음과 같습니다:
 
